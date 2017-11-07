@@ -1,5 +1,5 @@
 bl_info = {
-  "name": "Random Walking Splines A",
+  "name": "Random Walking Splines",
   "author": "Desmarkie",
   "description": "Generate splines with a random walk",
   "location": "Add > Mesh",
